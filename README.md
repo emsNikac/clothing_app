@@ -1,4 +1,4 @@
-# mobilni
+# Clothing app
 
 A new Flutter project.
 
